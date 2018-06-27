@@ -1,14 +1,16 @@
-# Google+ app for macOS
+# Google+ application for macOS
 
 ## Description
 
-Unofficial site-wrapper application for macOS which created specially for Google+ social network and have a notification badge for unread messages. This application is simply builded with [Nativefier](https://github.com/jiahaog/nativefier) but contains my script for notification counter.
+This is the unofficial site-wrapper application for macOS that created for Google Plus social network and support notification badge for unread messages. The application is simply builded with [Nativefier](https://github.com/jiahaog/nativefier) but contains my script for notification badge. 
+<br><br>
+The script also may work with other websites that have the Google notification counter like [Google Hangouts](hangouts.google.com). 
 
 ## Installation
 
-* Download a latest build from the [releases](https://github.com/BroFox86/google-plus-app/releases) page
-* Mount the image and copy the **Google+.app** to the **/Application** folder
+* Download the latest build from the [releases](https://github.com/BroFox86/google-plus-app/releases) page
+* Mount image and copy **Google+.app** to the **/Application** folder
 
 ## Screenshot
 
-![Screenshot](https://github.com/BroFox86/google-plus-app/blob/master/screenshot.png)
+![Screenshot](https://github.com/BroFox86/google-plus-app/blob/master/screenshot.jpg)
