@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the unofficial site-wrapper application for macOS that created for Google Plus social network and support notification badge for unread messages. The application is simply builded with [Nativefier](https://github.com/jiahaog/nativefier) but contains my script for notification badge. 
+This is an unofficial site-wrapper application for macOS that created for Google Plus social network and support notification badge for unread messages. The application is built with [Nativefier](https://github.com/jiahaog/nativefier) but contains my script for notification badge. 
 <br><br>
 The script also may work with other websites that have the Google notification counter like [Google Hangouts](hangouts.google.com). 
 
